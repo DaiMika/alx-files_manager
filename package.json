@@ -3,7 +3,7 @@
   "name": "files_manager",
   "version": "1.0.0",
   "description": "A simple file management API built with Node.js.",
-  "author": "Maxyn Edogha maxdietunnie@gmail.com>",
+  "author": "Maxyn Edogha <maxdietunnie@gmail.com>",
   "license": "MIT",
   "private": true,
   "main": "server.js",

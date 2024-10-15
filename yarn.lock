@@ -136,17 +136,17 @@
     browserslist "^4.20.2"
     semver "^6.3.0"
 
-"@MaxDie/helper-compilation-targets@^7.18.6":
+"@DaiMika/helper-compilation-targets@^7.18.6":
   version "7.18.6"
   resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.18.6.tgz#18d35bfb9f83b1293c22c55b3d576c1315b6ed96"
   integrity sha512-vFjbfhNCzqdeAtZflUFrG5YIFqGTqsctrtkZ1D/NB0mDW9TwW3GmmUepYY4G9wCET5rY5ugz4OGTcLd614IzQg==
   dependencies:
-    "@MaxDie/compat-data" "^7.18.6"
-    "@MaxDie/helper-validator-option" "^7.18.6"
+    "@DaiMika/compat-data" "^7.18.6"
+    "@daiMika/helper-validator-option" "^7.18.6"
     browserslist "^4.20.2"
     semver "^6.3.0"
 
-"@MaxDie/helper-create-class-features-plugin@^7.17.12", "@babel/helper-create-class-features-plugin@^7.18.0":
+"@daiMika/helper-create-class-features-plugin@^7.17.12", "@babel/helper-create-class-features-plugin@^7.18.0":
   version "7.18.0"
   resolved "https://registry.yarnpkg.com/@babel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.18.0.tgz#fac430912606331cb075ea8d82f9a4c145a4da19"
   integrity sha512-Kh8zTGR9de3J63e5nS0rQUdRs/kbtwoeQQ0sriS0lItjC96u8XXZN6lKpuyWd2coKSU13py/y+LTmThLuVX0Pg==
